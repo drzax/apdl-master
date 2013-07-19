@@ -1,0 +1,6 @@
+[submodule "env"]
+	path = env
+	url = git@github.com:drzax/apdl-env.git
+[submodule "htdocs"]
+	path = htdocs
+	url = git@github.com:drzax/apdl-htdocs.git
